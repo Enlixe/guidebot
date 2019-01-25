@@ -101,9 +101,4 @@ const config = {
   ]
 };
 
-//weather API key
-"weatherAPI": [
-    "bd5e378503939ddaee76f12ad7a97608"
-  ],
-
 module.exports = config;
