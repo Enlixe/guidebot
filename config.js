@@ -9,7 +9,7 @@ const config = {
   "support": [],
 
   // Your Bot's Token. Available on https://discordapp.com/developers/applications/me
-  "token": "NTM3MzMwODI0NTY4MTExMTM0.DyjsCQ.K6bnEsSaF9YMEPitq7WYJmRw9LQ",
+  "token": "NTM3MzMwODI0NTY4MTExMTM0.D0W5Gw.H1-oGxOcmZvCcGTwwo5kuo7s7C8",
 
   // Default per-server settings. New guilds have these settings. 
 
