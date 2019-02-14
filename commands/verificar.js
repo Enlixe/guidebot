@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 module.exports.run = async (bot, message, args) => {
     message.delete();
     let role = message.guild.roles.find(role => role.name === 'Não Verificado');
-    if (message.channel.name !== 'verificação') return message.reply('You must go to the channel #verification');
+    if (message.channel.name !== 'verificação') return message.reply('You must go to the channel #verificação');
     message.member.addRole(role);
     if (message.member.roles.has(role.id)) {
         let verifyEmbed = new Discord.RichEmbed()
